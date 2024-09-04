@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+    <book>
+        <title>Effective Java</title>
+        <year>0</year>
+    </book>
+    <book>
+        <title>Java Concurrency in Practice</title>
+        <year>0</year>
+    </book>
+</books>
